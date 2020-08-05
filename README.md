@@ -8,7 +8,7 @@
 ### Connect with me:
 [<img align="left" alt="nickleslie.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Nick Leslie's LinkedIn" width="22px" src="https://raw.githubusercontent.com/ncpleslie/PersonalWebsite/master/src/assets/linkedin.svg" />][linkedin]
-[<img align="left" alt="Nick Leslie's Resume" width="22px" src="hhttps://raw.githubusercontent.com/ncpleslie/PersonalWebsite/master/src/assets/resume.svg" />][resume]
+[<img align="left" alt="Nick Leslie's Resume" width="22px" src="https://raw.githubusercontent.com/ncpleslie/PersonalWebsite/master/src/assets/resume.svg" />][resume]
 [<img align="left" alt="Email Nick Leslie" width="22px" src="https://raw.githubusercontent.com/ncpleslie/PersonalWebsite/master/src/assets/email.svg" />][email]
 
 <br />
