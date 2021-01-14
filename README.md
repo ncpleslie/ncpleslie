@@ -1,6 +1,6 @@
 ### Hello! I'm Nick
 
-## I'm a Software Developer from New Zealand
+## I'm a Software Engineer from New Zealand
 - Experienced full-stack web developer
 - I'm currently learning anything that is related to the web
 - Currently working on enhancing the accessibility of everyday, household items through alternative UIs
