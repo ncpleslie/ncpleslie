@@ -3,7 +3,6 @@
 ## I'm a Software Engineer from New Zealand
 - Experienced full-stack web developer
 - I'm currently learning anything that is related to the web
-- Currently working on enhancing the accessibility of everyday, household items through alternative UIs
 
 ### Connect with me:
 [<img align="left" alt="nickleslie.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
